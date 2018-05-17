@@ -3,7 +3,7 @@
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://mdesai005.github.io/SE-SaaS/articles/solution-engineering-SaaS/index.html)
 
 ## The Role
-Solutions Engineering is more BREADTH than depth. You take the products that have already been built - configure them with your business functional skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a techno-functional job** with client interactions and we are looking for good communications and potential business acumen as well. We are a "CUSTOMER FACING" organization.
+Solutions Engineering is more BREADTH than depth. You take the products that have already been built - configure them with your business functional skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a techno-functional job** with client interactions and we are looking for good communications and potential business acumen as well. We are a "CUSTOMER FACING" organization. This role is focused on Public Sector Customers.
 
 For a successful SaaS Solution Engineer - you need the following traits
 * Strong business and functional skills
@@ -17,7 +17,7 @@ For a successful SaaS Solution Engineer - you need the following traits
 * Identify business requirements and map them to the Oracle Cloud ERP functionality
 * Identify functionality gaps and develop solutions to them
 * Configure the applications and document application set-ups
-* Creating new industry-focused solution innovations
+* Creating new public sector industry focused solution innovations
 * Ability to work under tight deadlines - our projects can be 2-6-week bursts and most of them are directly driven by our customers' desire to see some capability in Oracle Cloud.
 * Desire to collaborate and innovate to create solutions.
 
@@ -78,7 +78,7 @@ Please choose one of the business process which fits your skills to explain over
 
 We expect that you have made a sincere effort to do research on one of the abover process and show how cloud can help simplify this process.
 - Show your capability to learn Oracle’s SaaS services
-
+- Please research on these use cases and demonstartes how you can apply to public sector customers.
 
 ### **Option 2: Recent Project Presentation**
 If you are planning to present your project it will NOT be equally weighted as what you do with our provided business process. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 6 slides maximum.
