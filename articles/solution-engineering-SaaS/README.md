@@ -65,7 +65,7 @@ In this section of the interview, you will select **a single option** from the 4
 
 ### **Option 1: Our Provided Process Use Case**
 
-Please choose one of the business process which fits your skills to explain overall solutions.
+Please choose one of the business process which fits your skills to explain overall solutions either whiteboard or powerpoint.
 
 * Procure to Pay:  The business flow is Requisition to Sourcing(solicitation mgt) to contract to Payment OR
 * Grant acceptance to Close out:  Grant Award to Grant Execution to funding Projects to cost collection to reimbursement request processing to Grant Close out OR
@@ -81,7 +81,7 @@ We expect that you have made a sincere effort to do research on one of the above
 
 
 ### **Option 2: Recent Project Presentation**
-If you are planning to present your project it will NOT be equally weighted as what you do with Oracle SaaS Cloud. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
+If you are planning to present your project it will NOT be equally weighted as what you do with our provided business process. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 6 slides maximum.
 
 **Guidelines for Project walkthrough**
 - What was customer business challanges?
@@ -90,7 +90,7 @@ If you are planning to present your project it will NOT be equally weighted as w
 - How big was the team (if there was one)
 - What is your specific role and contribution ( For example: I coded front-end and collected requirements for project OR I coded some piece of the front-end) We are looking for "I" not "WE"
 - Walk through the solution and functional architecture
-- What was outcome in terms of ROI, 
+- What was outcome in terms of ROI, Business Value
 	
 
 ## Functional/Technical Question and Answer Interview
