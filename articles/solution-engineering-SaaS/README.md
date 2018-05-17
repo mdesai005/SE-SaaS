@@ -68,6 +68,7 @@ In this section of the interview, you will select **a single option** from the 4
 Please choose one of the business process which fits your skills to explain overall solutions.
 
 * Procure to Pay:  The business flow is Requisition to Sourcing(solicitation mgt) to contract to Payment OR
+* Grant acceptance to Close out:  Grant Award to Grant Execution to funding Projects to cost collection to reimbursement request processing to Grant Close out OR
 * Record to Report:  The business flow is Subledger Accounting transactions to reconciliation to adjusting entries to close cycle to Report OR
 * Hire to Retire:  The business flow here is Recruiting to Candidate Selection to On board to benefits to T&L to Payroll to Retirement OR
 * Case Management to resolution(CX):  The business flow here is Intake to Case determination to case processing to outcome/resolution OR
