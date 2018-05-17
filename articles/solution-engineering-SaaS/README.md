@@ -63,29 +63,25 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 
 In this section of the interview, you will select **a single option** from the 4 options below. **Remember: You only have 15 Minutes!**
 
-### **Option 1: Demo Using Oracle Cloud Account (Preferred)**
+### **Option 1: Our Provided Process Use Case**
 
-Please use the Oracle cloud account provided by your recruiting coordinator.
+Please choose one of the business process which fits your skills to explain overall solutions.
+
+* Procure to Pay:  The business flow is Requisition to Sourcing(solicitation mgt) to contract to Payment OR
+* Record to Report:  The business flow is Subledger Accounting transactions to reconciliation to adjusting entries to close cycle to Report OR
+* Hire to Retire:  The business flow here is Recruiting to Candidate Selection to On board to benefits to T&L to Payroll to Retirement OR
+* Case Management to resolution(CX):  The business flow here is Intake to Case determination to case processing to outcome/resolution OR
+* Smarter Cities or Smarter Government: Show key areas and process flows to make city or governmenet functions smarter
 
 **Expectation:**
 
-We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
+We expect that you have made a sincere effort to do research on one of the abover process and show how cloud can help simplify this process.
+- Show your capability to learn Oracle’s SaaS services
 
-- Show your capability to learn Oracle’s cloud services
-- Provide us with critical feedback if there were roadblocks.
-- Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.
-
-**Cloud Services Suggestions  (Feel free to try more than one if you have time):**
-
-- Use an IAAS compute instance (we welcome OS variants -Windows or Linux) and may be MySQL instance to create a 3 or 2-tier web app.  
-- Look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  
-- Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
--  Use Oracle Analytics Cloud and create visualizations
-- It's always good practice to create a quick video of your work -just in case you run into issues.
-- To net this OUT - Even if you are unable to get something deployed in our Cloud -we will look for EFFORT here OVER showcasing a PROJECT
 
 ### **Option 2: Recent Project Presentation**
 If you are planning to present your project it will NOT be equally weighted as what you do with Oracle SaaS Cloud. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
+
 **Guidelines for Project walkthrough**
 - What was customer business challanges?
 - Whiteboard business process AS-IS and TO-BE
