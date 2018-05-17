@@ -25,7 +25,7 @@ For a successful SaaS Solution Engineer - you need the following traits
 
 The face-to-face interview process is a technical interview outlined below:
 
-## Technical Presentation and Demo - up to 45 minutes
+## Technical Presentation and Process Presentation - up to 45 minutes
 
 | Interview Section | Minutes | Description |
 | --- | --- | --- |
@@ -58,12 +58,11 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 - [https://www.oracle.com/cloud/paas.html](https://www.oracle.com/cloud/paas.html)
 - [https://www.oracle.com/cloud/iaas.html](https://www.oracle.com/cloud/iaas.html)
 
+## Functional Deep dive - Business Process Whiteboarding/Presentation
 
-## Functional Deep dive - Business Use Case Whiteboarding
+In this section of the interview, you will select **a single option** from the options below. **Remember: You only have 15 Minutes!**
 
-In this section of the interview, you will select **a single option** from the 4 options below. **Remember: You only have 15 Minutes!**
-
-### **Option 1: Our Provided Process Use Case**
+### **Option 1: Our Identified Process presentation**
 
 Please choose one of the business process which fits your skills to explain overall solutions either whiteboard or powerpoint.
 
@@ -74,13 +73,47 @@ Please choose one of the business process which fits your skills to explain over
 * Case Management to resolution(CX):  The business flow here is Intake to Case determination to case processing to outcome/resolution OR
 * Smarter Cities or Smarter Government: Show key areas and process flows to make city or governmenet functions smarter
 
+
+Below are some links to study processes. Please only pick one process for your study and research.
+
+Procure 2 Pay Process
+- https://www.oracle.com/applications/erp/procurement-cloud/purchasing.html
+- https://cloud.oracle.com/en_US/erp-cloud
+- https://go.oracle.com/LP=54878?elqCampaignId=48423&src1=ad:pas:go:dg:erp&src2=wwmk160606p00030c0001&SC=sckw=WWMK160606P00030C0001&mkwid=sxHFuyRzD%7cpcrid%7c217811708582%7cpkw%7cprocure%20to%20pay%20process%7cpmt%7cp%7cpdv%7cc%7csckw=srch:procure%20to%20pay%20process
+
+Grants Management
+- https://www.test.grants.gov/web/grants/learn-grants/grants-101/grant-lifecycle.html
+- https://cloud.oracle.com/_downloads/Datasheet_ProjectFin_GrantsMgmt/oracle-grants-management-cloud-datasheet.pdf
+- https://docs.oracle.com/cd/E51367_01/projectop_gs/FAIGR/F1482397AN100B2.htm#F371143AN1046B
+
+Record to Report
+- https://en.wikipedia.org/wiki/Record_to_report
+- http://www.oracle.com/us/solutions/business-intelligence/064092.pdf
+- http://oracleapps88.blogspot.com/2017/04/record-to-report-process-flow.html
+
+Hire to Retire
+- https://cloud.oracle.com/en_US/hcm-cloud
+- https://docs.oracle.com/cd/E37017_01/doc.1115/e22779/F422812AN14BC2.htm
+
+Case Management
+- https://cloud.oracle.com/service-cloud
+- https://blogs.oracle.com/soacommunity/case-management-patterns-using-oracle-process-cloud-service-by-jose-rodrigues
+- http://www.oracle.com/oms/oracleday/applications-case-mngmnt-timperi-1360595.pdf
+- https://go.oracle.com/LP=30302/?elqCampaignId=103835&src1=ad:pas:go:dg:svcl&src2=wwmk170620p00056c0001&SC=sckw=WWMK170620P00056C0001&mkwid=sEFyZHSl6%7cpcrid%7c248142860121%7cpkw%7c%2Boracle%20%2Bservice%20%2Bcloud%7cpmt%7cb%7cpdv%7cc%7csckw=srch:%2Boracle%20%2Bservice%20%2Bcloud
+
+Smarter City / Smarter Government
+- https://www.oracle.com/applications/primavera/solutions/smart-city-projects/index.html
+- http://www.oracle.com/us/industries/public-sector/oracle-manage-smart-city-185081.pdf
+- https://www.oracle.com/applications/modern-best-practice/smarter-cities/index.html
+
+
 **Expectation:**
 
 We expect that you have made a sincere effort to do research on one of the abover process and show how cloud can help simplify this process.
 - Show your capability to learn Oracle’s SaaS services
 - Please research on these use cases and demonstartes how you can apply to public sector customers.
 
-### **Option 2: Recent Project Presentation**
+### **Option 2: Your Recent Project Presentation**
 If you are planning to present your project it will NOT be equally weighted as what you do with our provided business process. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 6 slides maximum.
 
 **Guidelines for Project walkthrough**
