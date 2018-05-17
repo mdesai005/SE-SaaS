@@ -29,7 +29,7 @@ The face-to-face interview process is a technical interview outlined below:
 
 | Interview Section | Minutes | Description |
 | --- | --- | --- |
-| Overview | 3 - 5 | Brief overview of yourself, sell yourself to provde why you are good fit for this role|
+| Overview | 3 - 5 | Brief overview of yourself. Try to sell yourself and explain why you are best to fit for this role|
 | Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
 | Functional Deep dive - Business Use Case Whiteboarding | 15 | Demonstrate how you can navigate key SaaS business process to define solution for your customer |  
 | Technical/Functional Q & A Interview | 10 | Technical/Functional Question and Answer Interview - Expect to be asked about projects where you were a MAJOR contributor |
